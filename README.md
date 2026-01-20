@@ -1,7 +1,3 @@
-Berikut **format `README.md` yang lebih menarik** + **embed gambar topologi** dari Google Drive (sudah aku ubah ke format direct-view supaya bisa tampil di GitHub).
-
-> Tinggal copy-paste ke file `README.md` di repo kamu.
-
 ````md
 # 🌐 PNETLab - MikroTik + Cisco Static Routing (VPC1 ↔ VPC2)
 
