@@ -48,10 +48,6 @@ pnetlab-mikrotik-cisco-static-routing/
 └─ images/
    └─ topology.png   # (opsional kalau mau simpan lokal)
 ````
-
-> Tips: Kalau mau gambar 100% aman tampil di GitHub, simpan file gambar topologi ke folder `images/` lalu ganti link gambar jadi:
-> `![Topologi](images/topology.png)`
-
 ---
 
 ## ⚙️ Konfigurasi
@@ -71,17 +67,11 @@ add dst-address=192.168.2.0/24 gateway=10.10.10.2 comment="Route to LAN2 via Cis
 
 ✅ Apply config:
 
-* **Paste** langsung ke terminal MikroTik, atau:
-
-```bash
-/import mikrotik.rsc
-```
+* **Paste** langsung ke terminal MikroTik
 
 ---
 
 ### 2) Cisco Router
-
-📄 File: `configs/cisco.cfg`
 
 ```cisco
 enable
