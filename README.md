@@ -1,7 +1,6 @@
-````md
-# 🌐 PNETLab - MikroTik + Cisco Static Routing (VPC1 ↔ VPC2)
-
-![PNETLab](https://drive.google.com/file/d/1zjSLjHKYvckHRVSkEvuYAoWvR9ew0L4L/view?usp=drive_link)
+![PNETLab](https://img.shields.io/badge/Lab-PNETLab-blue)
+![Routing](https://img.shields.io/badge/Routing-Static-success)
+![Devices](https://img.shields.io/badge/Device-MikroTik%20%7C%20Cisco-orange)
 
 Lab ini membangun konektivitas **dua jaringan /24** yang berbeda menggunakan **static routing sederhana** antara **MikroTik** dan **Router Cisco**.
 
@@ -12,9 +11,6 @@ Lab ini membangun konektivitas **dua jaringan /24** yang berbeda menggunakan **s
 ---
 
 ## 🖼️ Topologi Jaringan
-
-> Jika gambar tidak muncul, pastikan file Google Drive disetel **Anyone with the link can view**.
-
 ![Topologi Jaringan](https://drive.google.com/uc?export=view&id=1zjSLjHKYvckHRVSkEvuYAoWvR9ew0L4L)
 
 ---
