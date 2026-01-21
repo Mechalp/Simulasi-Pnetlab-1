@@ -37,8 +37,6 @@ Agar LAN kiri dan kanan saling kenal, kita cukup tambahkan 1 route di masing-mas
 
 ---
 
----
-
 ## ⚙️ Konfigurasi
 
 ### 1) MikroTik (RouterOS)
