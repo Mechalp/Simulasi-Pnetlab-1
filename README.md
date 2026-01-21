@@ -78,8 +78,8 @@ interface Ethernet0/1
 
 ip route 192.168.1.0 255.255.255.0 10.10.10.1
 
+do write
 end
-do write 
 ```
 
 ---
