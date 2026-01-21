@@ -37,17 +37,6 @@ Agar LAN kiri dan kanan saling kenal, kita cukup tambahkan 1 route di masing-mas
 
 ---
 
-## 📂 Struktur Repo (disarankan)
-
-```bash
-pnetlab-mikrotik-cisco-static-routing/
-├─ README.md
-├─ configs/
-│  ├─ mikrotik.rsc
-│  └─ cisco.cfg
-└─ images/
-   └─ topology.png   # (opsional kalau mau simpan lokal)
-````
 ---
 
 ## ⚙️ Konfigurasi
