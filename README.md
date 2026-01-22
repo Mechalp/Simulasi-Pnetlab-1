@@ -67,14 +67,15 @@ configure terminal
 hostname R-CISCO
 
 interface Ethernet0/0
+no shutdown
  description LINK_TO_MIKROTIK
  ip address 10.10.10.2 255.255.255.0
- no shutdown
 
 interface Ethernet0/1
+no shutdown
  description LAN2_GATEWAY
  ip address 192.168.2.1 255.255.255.0
- no shutdown
+
 
 ip route 192.168.1.0 255.255.255.0 10.10.10.1
 
